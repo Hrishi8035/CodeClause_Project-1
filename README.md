@@ -65,7 +65,7 @@ The terminal will display the top 3 identifications with their confidence levels
 The identified image will also be plotted using Matplotlib.
 
 ### Example
-When an image of a cat is uploaded, the terminal might display:
+![Cat](image.jpeg)
 ```bash
 1: tiger_cat (35.49%)
 2: Egyptian_cat (34.88%)
