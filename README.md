@@ -25,7 +25,7 @@ Top 3 Identifications: Displays the top three recognized objects along with conf
 
 ```bash
 $ git clone https://github.com/Hrishi8035/CodeClause_Project-1
-$ cd image-recognition-opencv
+$ cd CodeClause_Project-1-master
 ```
 
 ### Install the required dependencies:
