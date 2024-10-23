@@ -6,15 +6,18 @@ This project demonstrates image recognition and object detection using OpenCV, T
 Top 3 Identifications: Displays the top three recognized objects along with confidence percentages in the terminal. 
 
 *For example:*
+```bash
 1: tiger_cat (35.49%)
 2: Egyptian_cat (34.88%)
 3: tabby (20.31%)
+```
 
 **Image Plotting:** After identification, the image is plotted with Matplotlib to visually represent the detected objects.
-Technologies Used
-**OpenCV:** For image processing.
-**TensorFlow & Keras:** For building and training the deep learning model.
-**Matplotlib:** For visualizing the image post-identification.
+
+## Technologies Used
+-**OpenCV:** For image processing.  
+-**TensorFlow & Keras:** For building and training the deep learning model.  
+-**Matplotlib:** For visualizing the image post-identification.  
 
 ## Installation
 
